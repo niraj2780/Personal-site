@@ -1,0 +1,45 @@
+body{
+
+    text-align: center;
+    margin:0;
+    font-family: 'Open Sans', sans-serif;
+}
+.h1{
+    font-size:90px;
+    margin-top:0;
+    font-family: 'Rochester', cursive;
+}
+.top-container{
+    background-color:#a6e3e9;
+position: relative;
+padding-top:100px;
+}
+.middle-container{
+
+}
+.bottom-container{
+
+}
+.my-photo{
+    width:250px;
+    height:250px;
+    border-radius:70% ;
+
+
+}
+.pro{
+    text-decoration: underline;
+}
+.top-cloud{
+position: absolute;
+right:300px;
+top:50px;
+}
+.bottom-cloud{
+    position:absolute;
+    left:300px;
+    top:300px;
+}
+.footer-link{
+    margin-right: 10px;
+}
