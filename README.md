@@ -1,1 +1,1 @@
-# Personal-site
+# Personal site and dice game project
